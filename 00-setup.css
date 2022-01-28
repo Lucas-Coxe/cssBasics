@@ -1,0 +1,10 @@
+/* css also has comments */
+/* css also has command + return to move lines */
+body {
+    background-color: slategray;
+}
+
+.wrapper {
+    border: 10px solid orange;
+}
+

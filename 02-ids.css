@@ -1,0 +1,28 @@
+/* Styling Hierarchy  */
+/* id attribute < class attribute > HTML element tag */
+
+body{
+    background-color: seagreen;
+}
+
+/* rule set #1 */
+#number-one{
+    color: seashell;
+}
+
+/* rule set #2, example of 2 ID names not working */
+#number-two {
+    color: orangered;
+    font-size: 20px;
+}
+
+/* rule set #3 */
+.first-class{
+    color: blue;
+    font-style: italic;
+}
+
+/* Rule set #4 */
+.second-class{
+    font-size: 24px;
+}

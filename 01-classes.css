@@ -1,0 +1,21 @@
+body {
+    background-color: peachpuff;
+}
+
+.css-class{
+    background-color: powderblue;
+}
+
+.css-class h1{
+    font-size: 18px;
+}
+
+.css-class p{
+    font-size: 16px;
+    color: salmon;
+}
+
+.css-class li{
+    color: seagreen;
+}
+
